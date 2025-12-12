@@ -1,0 +1,6 @@
+../RTL/sync.sv
+../RTL/fifo_mem.sv
+../RTL/read_ptr.sv
+../RTL/write_ptr.sv
+../RTL/top.sv
+../RTL/fifo_properties.sv
